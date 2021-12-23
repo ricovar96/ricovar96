@@ -1,4 +1,4 @@
-Hi My name is Fabian and I have more 2 years in experience in Software application and frontend application. 😉
+Hi My name is Fabian and I have almost 3 years in experience in Software application and frontend application. 😉
 </br>
 </br>
 I´m interesed in everything related with technology from Windows Service to Angular/React Application. 👨🏼‍💻
