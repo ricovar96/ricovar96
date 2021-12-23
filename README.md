@@ -4,7 +4,7 @@ Hi My name is Fabian and I have almost 3 years in experience in Software applica
 I´m interesed in everything related with technology from Windows Service to Angular/React Application. 👨🏼‍💻
 </br>
 </br>
-You can reach me either email: ricovar96@gmail.com or linkedin: https://www.linkedin.com/in/fabian-daniel-rico-vargas-89731a107/ 📩
+You can reach me either email: ricovar96@gmail.com or linkedin: https://www.linkedin.com/in/fabianrico/ 📩
 </br>
 </br>
 I can speak english and spanish (Portuguese is loading... 🔜)
