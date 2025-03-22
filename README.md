@@ -1,13 +1,13 @@
-Hi My name is Fabian and I have almost 3 years in experience in Software application and frontend application. 😉
-</br>
-</br>
-I´m interesed in everything related with technology from Windows Service to Angular/React Application. 👨🏼‍💻
-</br>
-</br>
-You can reach me either email: ricovar96@gmail.com or linkedin: https://www.linkedin.com/in/fabianrico/ 📩
-</br>
-</br>
-I can speak english and spanish (Portuguese is loading... 🔜)
-</br>
-</br>
-Any doubt, don't hesitate to reach me out! See you! 🖐🏼
+Full Stack Software Developer | 6+ Years Experience | C#, .NET Core, Angular, TypeScript, SQL, AI 
+
+Experienced in designing, developing, and optimizing scalable web applications, APIs, and backend services. Passionate about delivering secure, high-performance solutions using the latest technologies.
+
+Proficient in Azure, CI/CD, and leveraging Agile methodologies to create efficient, maintainable code. Focused on continuous improvement and staying up-to-date with emerging technologies.
+
+🔹 Core Skills:
+C# | .NET Core | Angular | TypeScript | SQL | Azure | AI | REST API | CI/CD
+
+🔹 Approach:
+Building scalable, secure, and high-performance applications and APIs, while fostering collaboration and innovation within cross-functional teams.
+
+Looking forward to connecting and contributing to impactful projects!
