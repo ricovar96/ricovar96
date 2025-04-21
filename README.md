@@ -11,3 +11,5 @@ C# | .NET Core | Angular | TypeScript | SQL | Azure | AI | REST API | CI/CD
 Building scalable, secure, and high-performance applications and APIs, while fostering collaboration and innovation within cross-functional teams.
 
 Looking forward to connecting and contributing to impactful projects!
+
+Lindedin -> https://www.linkedin.com/in/fabianrico/
