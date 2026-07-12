@@ -64,9 +64,3 @@ I work with business stakeholders, vendors, developers, and cross-functional IT 
 `Software Architecture` `Microservices` `API Integration`  
 `Backend Development` `Distributed Systems` `Automation`  
 `Database Design` `Production Support`
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Rico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianrico/)
