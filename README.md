@@ -1,15 +1,17 @@
-Full Stack Software Developer | 6+ Years Experience | C#, .NET Core, Angular, TypeScript, SQL, AI 
+Full Stack Software Developer | Building Scalable Applications Since 2019 | C#, .NET Core, Angular, TypeScript, SQL, Azure, AI
 
-Experienced in designing, developing, and optimizing scalable web applications, APIs, and backend services. Passionate about delivering secure, high-performance solutions using the latest technologies.
+Full Stack Software Developer building and supporting scalable web applications, enterprise systems, microservices, APIs, backend services, and data integration solutions since 2019.
 
-Proficient in Azure, CI/CD, and leveraging Agile methodologies to create efficient, maintainable code. Focused on continuous improvement and staying up-to-date with emerging technologies.
+Experienced in designing application architectures and building distributed systems that consume data from multiple external APIs, validate and transform information, and load processed records into SQL Server. Skilled in developing RESTful APIs, service-based solutions, scheduled processes, and secure integrations between internal platforms and third-party systems.
 
-🔹 Core Skills:
-C# | .NET Core | Angular | TypeScript | SQL | Azure | AI | REST API | CI/CD
+Strong background in software architecture, microservices, system integration, backend development, database design, and production support. Experienced in troubleshooting complex application, batch, SQL, API, and integration issues while collaborating with business stakeholders, vendors, developers, and cross-functional IT teams.
 
-🔹 Approach:
-Building scalable, secure, and high-performance applications and APIs, while fostering collaboration and innovation within cross-functional teams.
+Proficient in C#, .NET Core, Angular, TypeScript, SQL Server, Azure, REST APIs, CI/CD, AI, and Agile methodologies. Focused on designing secure, scalable, maintainable, and high-performance solutions that improve operational efficiency, reliability, and system performance.
 
-Looking forward to connecting and contributing to impactful projects!
+🔹 Core Skills: C# | .NET Core | Angular | TypeScript | SQL Server | Azure | REST APIs | Microservices | Software Architecture | AI | CI/CD
 
-Lindedin -> https://www.linkedin.com/in/fabianrico/
+🔹 Professional Focus: Enterprise Application Architecture | Microservices | API Integration | Distributed Systems | Backend Development | Data Processing | Automation | Database Design | Production Support
+
+I am always interested in connecting with technology professionals and contributing to projects that create measurable business impact.
+
+LinkedIn: https://www.linkedin.com/in/fabianrico/
