@@ -1,26 +1,72 @@
-Full Stack Software Developer | Building Scalable Applications Since 2019 | C#, .NET Core, Angular, SQL, Azure
+# Hi, I'm Fabian Rico 👋
 
-Full Stack Software Developer with experience designing, developing, and supporting scalable applications, APIs, microservices, and enterprise systems since 2019.
+### Full Stack Software Developer | Building Scalable Applications Since 2019
 
-I specialize in building secure and reliable solutions that connect internal platforms with external APIs. My experience includes backend services, scheduled processes, data validation, automation, SQL Server integrations, and production support.
+I design, develop, and support scalable applications, APIs, microservices, enterprise systems, and data integration solutions.
 
-I also work with software architecture and distributed systems, translating business requirements into maintainable technical solutions. I collaborate with stakeholders, vendors, developers, and IT teams throughout the full development lifecycle.
+My focus is on building secure, reliable, and maintainable software that connects internal platforms, databases, and third-party services.
 
-🔹 What I Do:
+---
 
-• Full-stack and backend development
-• REST API and microservices development
-• Enterprise application architecture
-• System and third-party integrations
-• Data processing and automation
-• SQL Server development
-• Troubleshooting and production support
+## 💻 What I Do
 
-🔹 Technologies
+- Full-stack and backend development
+- REST API and microservices development
+- Software and enterprise application architecture
+- Third-party and internal system integrations
+- Automated and scheduled data-processing workflows
+- SQL Server development and database integration
+- Troubleshooting and production support
 
-C# | .NET Core | Angular | TypeScript | SQL Server | Azure | REST APIs | Microservices | CI/CD | AI
+---
 
-I enjoy building scalable, secure, and high-performance solutions that improve reliability, efficiency, and business operations.
+## 🏗️ Architecture & Integrations
 
-Let’s connect:
-https://www.linkedin.com/in/fabianrico/
+I build distributed and service-based solutions that:
+
+- Consume data from multiple external APIs
+- Validate, clean, and transform incoming data
+- Process information through scheduled services
+- Load processed records into SQL Server
+- Integrate internal platforms with third-party systems
+- Improve system reliability and operational efficiency
+
+---
+
+## 🛠️ Technology Stack
+
+### Backend
+
+`C#` `.NET Core` `REST APIs` `Microservices` `PowerShell`
+
+### Frontend
+
+`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap`
+
+### Database & Integration
+
+`SQL Server` `Stored Procedures` `ETL` `Data Integration` `Automation`
+
+### Cloud & Development
+
+`Azure` `CI/CD` `Git` `Agile` `AI`
+
+---
+
+## 🤝 Collaboration
+
+I work with business stakeholders, vendors, developers, and cross-functional IT teams to translate business requirements into scalable technical solutions.
+
+---
+
+## 🎯 Professional Focus
+
+`Software Architecture` `Microservices` `API Integration`  
+`Backend Development` `Distributed Systems` `Automation`  
+`Database Design` `Production Support`
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Rico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianrico/)
